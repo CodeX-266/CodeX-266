@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web dev<br>👯 I’m looking to collaborate on Web and Android dev<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning  DSA in C++<br>⚡ Fun fact you will never know what happened here. 
+🔭 I’m currently working on Web dev<br>👯 I’m looking to collaborate on Web and Android dev<br>🌱 I’m currently learning  DSA in C++<br>⚡ Fun fact you will never know what happened here. 
 
 
 ## 🌐 Socials:
